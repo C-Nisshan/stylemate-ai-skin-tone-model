@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+#*.h5
+#*.pkl
+#*.joblib
+#*.png
+#*.jpg
+#*.jpeg
+.DS_Store
+venv
