@@ -104,7 +104,15 @@ You can:
 
 ```
 python3 -m venv venv
+
+```
+To activate virtual environment in Linux
+```
 source venv/bin/activate
+```
+To activate virtual environment in windows
+```
+source venv\Scripts\activate
 ```
 2. **Install Dependencies**
 
