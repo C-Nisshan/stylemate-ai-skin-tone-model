@@ -135,3 +135,30 @@ uvicorn main:app --host 0.0.0.0 --port 8000 --reload
   ```
   http://127.0.0.1:8000/health
   ```
+# Image Guidelines for Best Results
+
+For accurate skin analysis, use a clear photo that follows these key rules:
+
+### Must-Haves
+- **Well-lit face**: Natural daylight or soft white light. No heavy shadows or over-exposure.
+- **Good framing**: Full face + some cheeks/neck visible (not too close or too far).
+- **Sharp & natural**: No blur, filters, heavy makeup, or edits that change skin tone.
+- **Clear skin**: No masks, face paint, or anything covering cheeks (glasses OK).
+- **Simple pose**: Front or slight angle (avoid extreme tilts or side profiles).
+- **Neutral lighting**: Avoid colored lights (e.g., neon) reflecting on skin.
+
+### Best Examples
+- Daylight selfie
+- Passport-style photo
+- Clear, unedited close-up face
+
+### Avoid
+- Yellow/gym lighting or harsh flash
+- Blurry/low-res images
+- Beauty filters or heavy foundation
+- Full-body shots (face too small)
+- Colored lighting on skin
+
+### Quick Tip
+Any resolution works—the system resizes automatically—but higher quality preserves skin details better.
+
