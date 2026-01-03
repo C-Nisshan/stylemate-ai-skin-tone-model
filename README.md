@@ -103,7 +103,7 @@ You can:
 1. **Create Virtual Environment**
 
 ```
-python3 -m venv venv
+python3.10 -m venv venv
 
 ```
 - To activate virtual environment in Linux
